@@ -1,0 +1,15 @@
+C:\Users\ambar\Desktop\Electiva1\Elec1\bin\Debug\net9.0\Elec1.exe
+C:\Users\ambar\Desktop\Electiva1\Elec1\bin\Debug\net9.0\Elec1.deps.json
+C:\Users\ambar\Desktop\Electiva1\Elec1\bin\Debug\net9.0\Elec1.runtimeconfig.json
+C:\Users\ambar\Desktop\Electiva1\Elec1\bin\Debug\net9.0\Elec1.dll
+C:\Users\ambar\Desktop\Electiva1\Elec1\bin\Debug\net9.0\Elec1.pdb
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\Elec1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\Elec1.AssemblyInfoInputs.cache
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\Elec1.AssemblyInfo.cs
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\Elec1.csproj.CoreCompileInputs.cache
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\Elec1.sourcelink.json
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\Elec1.dll
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\refint\Elec1.dll
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\Elec1.pdb
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\Elec1.genruntimeconfig.cache
+C:\Users\ambar\Desktop\Electiva1\Elec1\obj\Debug\net9.0\ref\Elec1.dll
